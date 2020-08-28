@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a475c67-6800-49fc-810a-cded2dcf02e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1giAIjrpeCiKxOiRZ057hTdzWwn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a475c67-6800-49fc-810a-cded2dcf02e4" name="Default Changelist" comment="" />
+      <created>1598586961414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598586961414</updated>
+      <workItem from="1598586964508" duration="1873000" />
+      <workItem from="1598589423255" duration="163000" />
+      <workItem from="1598589607931" duration="2713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="246" key="#File_Watchers" timestamp="1598589714585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="246" key="#File_Watchers/0.0.1536.824@0.0.1536.824" timestamp="1598589714585" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598589615676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1598589615676" />
+    <state x="437" y="147" width="660" height="677" key="EditFileWatcherDialog" timestamp="1598589684199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="147" width="660" height="677" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1598589684199" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1598591210778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598591210778" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1598589724698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598589724698" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1598591941984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1598591941984" />
+  </component>
+</project>
